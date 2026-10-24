@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "dbzmod",
+  "version": "${version}",
+  "name": "Dragon Ball Mod",
+  "description": "Ki blasts, senzu beans y Kaio-ken. Pelear como un Saiyajin en Minecraft.",
+  "authors": ["emmanuel22m"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.dbzmod.DragonBallMod"],
+    "client": ["com.dbzmod.client.DragonBallModClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "fabric-api": "*",
+    "java": ">=21"
+  }
+}
