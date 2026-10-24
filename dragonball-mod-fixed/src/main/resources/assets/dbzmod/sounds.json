@@ -1,0 +1,11 @@
+{
+  "ki_blast_fire": {
+    "sounds": [{ "name": "dbzmod:ki_blast_fire" }]
+  },
+  "ki_blast_hit": {
+    "sounds": [{ "name": "dbzmod:ki_blast_hit" }]
+  },
+  "kaioken_transform": {
+    "sounds": [{ "name": "dbzmod:kaioken_transform", "stream": true }]
+  }
+}
